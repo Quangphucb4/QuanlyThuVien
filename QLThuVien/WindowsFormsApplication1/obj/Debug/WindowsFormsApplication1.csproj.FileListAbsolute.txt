@@ -1,0 +1,150 @@
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_capnhat.resources
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlytacgia.resources
+C:\Users\LOSS\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysinhvien.resources
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_capnhat.resources
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysinhvien.resources
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlytacgia.resources
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Main.resources
+D:\Đề tài C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysach.resources
+<<<<<<< HEAD
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Main.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_capnhat.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysinhvien.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlytacgia.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysach.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_saoluuphuchoi.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+=======
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Main.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_capnhat.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysinhvien.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlytacgia.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysach.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+>>>>>>> origin/master
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_saoluuphuchoi.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_KetNoi.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_Login.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_KetNoi.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_Login.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frrm_Theloaisach.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangnhap.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_MuonTraSach.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frrm_Theloaisach.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangnhap.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Quanlyhocsinh.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_MuonTraSach.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Quanlyhocsinh.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_doimatkhau.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_doimatkhau.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangky.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangky.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_ChiTietMuonTra.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_ChiTietQuaHan.resources
+C:\Users\HuyNguyen\Desktop\QLThuVien\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_InSach.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_ChiTietMuonTra.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_ChiTietQuaHan.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_InSach.resources
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Khoa\Desktop\baocao\B-o-C-o-C-\QLThuVien\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Main.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_capnhat.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_MuonTraSach.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Quanlyhocsinh.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlytacgia.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysach.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frrm_Theloaisach.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangky.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangnhap.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_doimatkhau.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_saoluuphuchoi.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_ChiTietMuonTra.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_ChiTietQuaHan.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_InSach.resources
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\New folder\B-o-C-o-C--master\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Main.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_capnhat.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_MuonTraSach.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Quanlyhocsinh.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlytacgia.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysach.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frrm_Theloaisach.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangky.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangnhap.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_doimatkhau.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_saoluuphuchoi.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_ChiTietMuonTra.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_ChiTietQuaHan.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Report.frm_InSach.resources
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\New folder\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Main.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_capnhat.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_MuonTraSach.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_Quanlyhocsinh.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlytacgia.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_quanlysach.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frrm_Theloaisach.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangky.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_dangnhap.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.frm_doimatkhau.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tn080\Desktop\IT_HUFI\nhom10_QLTV_THHQTCSDL\QLTV\QLThuVien\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
