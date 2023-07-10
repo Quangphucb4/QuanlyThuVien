@@ -4,5 +4,6 @@
     <li>Nguyễn Quang Phúc</li>
     <li>Nguyễn Thị Ngọc Trinh</li>
 </ol>
-## IMAGES
+
+## BACKGROUND
 <img src="/BG.png"/>
