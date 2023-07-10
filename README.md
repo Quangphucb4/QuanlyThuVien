@@ -5,4 +5,4 @@
     <li>Nguyễn Thị Ngọc Trinh</li>
 </ol>
 ## IMAGES
-<img src="/Resources/BG.png"/>
+<img src="/BG.png"/>
